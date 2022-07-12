@@ -21,3 +21,5 @@ I’m Baijiu Yec.
 - 📧 Email: joneyee22@qq.com
 - 😄 Wechat: baijiuYec
 - 🏠 Home Page: http://baijiu.yec.is-a.dev/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twentwo)](https://github.com/anuraghazra/github-readme-stats)
