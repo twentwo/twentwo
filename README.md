@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Baijiu Yec.
+
+
+- 📧 Email: joneyee22@qq.com
+- 😄 Wechat: baijiuYec
+- 🏠 Home Page: http://baijiu.yec.is-a.dev/
